@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johagy
 - 👀 I’m interested in Automation,Data collection,Data management,Data analysis,AI
-- 🌱 I’m currently learning basic coding to improve my homegrown monitoring systhem,next i want to learn how to properly use MariaDB and Next.js to update my current Dash and csv. based Monitoring systhem. (way to freaking complicated) AI is helping me alot
+- 🌱 I’m currently learning basic coding to improve my homegrown monitoring/controll systhem, next i want to learn how to properly use MariaDB and Next.js to update my current Dash and csv. based Monitoring systhem. (way to freaking complicated for a novice) AI is helping me alot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: 
